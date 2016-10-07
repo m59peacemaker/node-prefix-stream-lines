@@ -20,4 +20,4 @@ process.stdin
 
 ## API
 
-### prefixLines(prefix)
+### `prefixLines(prefix)`
