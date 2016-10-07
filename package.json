@@ -1,0 +1,37 @@
+{
+  "name": "prefix-stream-lines",
+  "version": "1.0.1",
+  "description": "Streaming line prefixer.",
+  "keywords": [
+    "stream",
+    "streams",
+    "streaming",
+    "line",
+    "lines",
+    "prefix",
+    "prefixer",
+    "label"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m59peacemaker/node-prefix-stream-lines"
+  },
+  "author": {
+    "name": "Johnny Hauser",
+    "email": "johnnyhauser@gmail.com"
+  },
+  "license": "VOL",
+  "dependencies": {
+    "duplexer": "^0.1.1",
+    "split": "^1.0.0",
+    "throo": "^1.0.0",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
