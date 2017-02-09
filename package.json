@@ -1,6 +1,6 @@
 {
   "name": "prefix-stream-lines",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Streaming line prefixer.",
   "keywords": [
     "stream",
@@ -24,7 +24,7 @@
     "name": "Johnny Hauser",
     "email": "johnnyhauser@gmail.com"
   },
-  "license": "VOL",
+  "license": "CC0-1.0",
   "dependencies": {
     "duplexer": "^0.1.1",
     "split": "^1.0.0",
